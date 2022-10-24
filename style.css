@@ -1,0 +1,64 @@
+.post{
+    background-color: white;
+    width: 500px;
+    height: 400;
+    margin-top: 100px;
+    margin-left: 600px;
+    border: solid;
+}
+
+body {
+    background-color: black;
+}
+
+.Head{
+    display: flex;
+}
+
+#profilepic{
+    width: 45px;
+    height: 46px;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.title{
+    padding-right: 110px;
+ margin-top: 11px;
+margin-left: 5px;
+}
+
+
+#menupoints{
+    margin-left:200px;
+    margin-top: 25px;
+}
+
+#image{
+    
+    width: 500px;
+    height: 500px;
+}  
+
+.likes{
+    display: flex;
+    margin-top: 10px;
+    font-size: larger;
+    margin-left: 10px;
+}
+.comment{
+    margin-left: 5px;
+}
+.share{
+    margin-left: 5px;
+}
+.save{
+    margin-left: 400px;
+}
+.numlikes{
+    margin-left: 10px;
+}
+.description{
+    margin-left: 10px;
+}
